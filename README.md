@@ -6,7 +6,7 @@ I am a researcher mainly focuses on medical ai and computational optical imaging
 
 I love running 🏃‍♀️, traveling ✈️,and reading📘.  
 
-If you want to know more about me, feel free to click on [curriculum vitae](https://songyang0603.github.io/cv/%E9%AB%98%E9%A2%82%E6%89%AC.pdf).
+If you want to know more about me, feel free to click on [my curriculum vitae](https://songyang0603.github.io/cv/%E9%AB%98%E9%A2%82%E6%89%AC.pdf).
 
 Let's passionate!
 ## Get in touch
