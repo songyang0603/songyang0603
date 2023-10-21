@@ -1,6 +1,4 @@
-## Hi there 👋
-
-### 想来看看我的主页吗: https://songyang0603.github.io
+## Hi there（ Update 10.22） 👋
 
 🤓 I'm Songyang 颂扬, an undergraduate freshman in Nanchang University majoring in artificial intelligence,working at [成像与视觉表示实验室](https://www.labxing.com/lab/1018/home).
 
