@@ -12,7 +12,7 @@ If you want to know more about me, feel free to click on [my curriculum vitae](h
 
 [Click here](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk0MDI4Nzk0Mw==&scene=124#wechat_redirect) to read about my personal growth and life story.
 
-Let's passionate!
+Let's be passionate!
 ## Get in touch
 
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/songyang0603)
