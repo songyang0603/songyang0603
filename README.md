@@ -10,6 +10,8 @@ I love running 🏃‍♀️, traveling ✈️,and reading📘.
 
 If you want to know more about me, feel free to click on [my curriculum vitae](https://songyang0603.github.io/cv/%E9%AB%98%E9%A2%82%E6%89%AC.pdf).
 
+[Click here](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk0MDI4Nzk0Mw==&scene=124#wechat_redirect) to read about my personal growth and life story.
+
 Let's passionate!
 ## Get in touch
 
