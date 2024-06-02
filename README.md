@@ -8,6 +8,8 @@ I also focus on AI for science, hoping to make the development of artificial int
 
 I was honored to be advised by [Professor Qiegen Liu](https://github.com/yqx7150/yqx7150.github.com) and [Wenbo Wan](https://teacher.ncu.edu.cn/publish/wanwenbo/) at [LIVE - Laboratory of Imaging and Vision Expression](https://www.labxing.com/lab/1018/home) starting from October 2022, where my focus on solving the problem of reconstruction quality being limited by the field of hologram in digital holography.
 
+I love running 🏃‍♀️, traveling ✈️,and reading📘.
+
 [Click here](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk0MDI4Nzk0Mw==&scene=124#wechat_redirect) to read about my personal growth and life story.
 
 If you want to know more about me, feel free to click on my [Personal Website](https://songyang0603.github.io/).
