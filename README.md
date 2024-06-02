@@ -1,6 +1,6 @@
 ## Hi there（Update in 06.03） 👋
 
-I'm Songyang 颂扬, a junior Undergraduate Student pursuing a bachelor's Degree in Artificial intelligence at [School of Information Engineering](http://ie.ncu.edu.cn/), [Nanchang University](https://www.ncu.edu.cn/). (Wechat: rxsy2003)
+I'm Songyang 颂扬, a junior Undergraduate Student pursuing a bachelor's Degree in Artificial intelligence at [School of Information Engineering](http://ie.ncu.edu.cn/), [Nanchang University](https://www.ncu.edu.cn/). I am expected to be recommended for graduate study and am looking for Ph.D opportunities now.(Wechat: rxsy2003)
 
 My research interests lie in generative artificial intelligence algorithms and their applications in various practical scenarios, such as computational imaging and intelligent medical imaging.
 
