@@ -1,18 +1,24 @@
-## Hi there（Update in 10.22） 👋
+## Hi there（Update in 06.03） 👋
 
-### Do you want to come and see my homepage?: https://songyang0603.github.io
+I'm Songyang 颂扬, a junior Undergraduate Student pursuing a bachelor's Degree in Artificial intelligence at [School of Information Engineering](http://ie.ncu.edu.cn/), [Nanchang University](https://www.ncu.edu.cn/). (Wechat: rxsy2003)
 
-I'm Songyang 颂扬, an undergraduate freshman in Nanchang University majoring in artificial intelligence,working at [Imaging and Visual Representation Lab](https://www.labxing.com/lab/1018/home).
+My research interests lie in generative artificial intelligence algorithms and their applications in various practical scenarios, such as computational imaging and intelligent medical imaging.
 
-I am a researcher mainly focuses on medical ai and computational optical imaging. My supervisor is [Qiegen Liu](https://github.com/yqx7150),he is an excellent expert in the area of sparse representation, deep learning and their applications in image processing, computer vision and MRI reconstruction.
+I also focus on AI for science, hoping to make the development of artificial intelligence more in line with physical principles and improve its reliability and work efficiency by better understanding brain science, neuroscience, and life science.
 
-I love running 🏃‍♀️, traveling ✈️,and reading📘.  
-
-If you want to know more about me, feel free to click on [my curriculum vitae](https://songyang0603.github.io/cv/%E9%AB%98%E9%A2%82%E6%89%AC.pdf).
+I was honored to be advised by [Professor Qiegen Liu](https://github.com/yqx7150/yqx7150.github.com) and [Wenbo Wan](https://teacher.ncu.edu.cn/publish/wanwenbo/) at [LIVE - Laboratory of Imaging and Vision Expression](https://www.labxing.com/lab/1018/home) starting from October 2022, where my focus on solving the problem of reconstruction quality being limited by the field of hologram in digital holography.
 
 [Click here](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk0MDI4Nzk0Mw==&scene=124#wechat_redirect) to read about my personal growth and life story.
 
+If you want to know more about me, feel free to click on my [Personal Website](https://songyang0603.github.io/).
+
 Let's be passionate!
+
+#### Contact
+* Github: [Songyang0603](https://github.com/Songyang0603)
+* Email: gaosongyang@email.ncu.edu.cn
+* Google Scholar：[Songyang Gao's Google Scholar](https://scholar.google.com.hk/citations?user=1OyMQr0AAAAJ&hl=zh-CN)
+
 ## Get in touch
 
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/songyang0603)
