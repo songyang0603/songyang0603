@@ -18,7 +18,7 @@ Let's be passionate!
 
 #### Contact
 * Github: [Songyang0603](https://github.com/Songyang0603)
-* Email: gaosongyang@email.ncu.edu.cn
+* Email: sgao068@connect.hkust-gz.edu.cn
 * Google Scholar：[Songyang Gao's Google Scholar](https://scholar.google.com.hk/citations?user=1OyMQr0AAAAJ&hl=zh-CN)
 
 ## Get in touch
