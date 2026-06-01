@@ -1,4 +1,4 @@
-## Hi there（Update in 03.02） 👋
+## Hi there（Update in 06.01） 👋
 
 I'm Songyang 颂扬, a first-year MPhil student in Artificial Intelligence at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), advised by [Prof. Hui Xiong](https://scholar.google.com/citations?user=cVDF1tkAAAAJ) **(IEEE, ACM, AAAI, AAAS Fellow)**. I received my B.Eng. in Artificial Intelligence from [Nanchang University](https://www.ncu.edu.cn/) in 2025.
 
